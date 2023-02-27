@@ -32,7 +32,7 @@ const App = () => {
     }, []);
     return (
         <div className = "app">
-            <h1>Test Title</h1>
+            <h1>Fabrication & Welding</h1>
 
             <div className = "search"> 
             <input
